@@ -1,0 +1,38 @@
+/* Flexbox utility classes */
+.flex {
+    display: flex;
+}
+
+.flex-end {
+    align-self: flex-end;
+}
+
+.flex-start {
+    align-self: flex-start;
+}
+
+.center {
+    align-self: center;
+}
+
+.space-between {
+    align-self: space-between;
+}
+
+.space-around {
+    align-self: space-around;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+/* Nav */
+.nav {
+    width: 100%;
+    height: 50px;
+}
