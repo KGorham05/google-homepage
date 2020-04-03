@@ -33,9 +33,10 @@
 
 /* Nav */
 
-/* .nav {
-    width: 100%;
-} */
+.nav {
+    padding-top:13px;
+    padding-bottom: 13px;
+}
 
 .nav-link {
     text-decoration: none;
@@ -45,6 +46,7 @@
     padding-left: 15px;
     padding-top: 23px;
     padding-right: 15px;
+    font-family: arial, sans-serif;
 }
 
 .nav-link:visited {
